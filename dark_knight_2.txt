@@ -1221,7 +1221,6 @@
 127.0.0.1 scotiasrvinfoca.com
 127.0.0.1 scotlandmal.com
 127.0.0.1 scottfaulconbridge.com
-127.0.0.1 scottishstuff-online.com	# Canadian bank phishing site
 127.0.0.1 scottishstuff-online.com
 127.0.0.1 scottjames11.com
 127.0.0.1 scottmorrison.info
@@ -1411,7 +1410,7 @@
 127.0.0.1 sd17glass3es1s0pan.oss-us-west-1.aliyuncs.com
 127.0.0.1 sd1kalirejokudus.sch.id
 127.0.0.1 sd2yb.voluumtrk.com
-127.0.0.1 sda.geek.com #[AdvertPro]
+127.0.0.1 sda.geek.com
 127.0.0.1 sda.seesaa.jp
 127.0.0.1 sdasae.net
 127.0.0.1 sdasecurity.com.au
@@ -2355,7 +2354,6 @@
 127.0.0.1 securify.nl
 127.0.0.1 securiitypaypal.webcindario.com
 127.0.0.1 securinews.free.fr
-127.0.0.1 securinews.free.fr #[Trojan.Hexem]
 127.0.0.1 securitas232maximus.xyz
 127.0.0.1 securitas25maximus.xyz
 127.0.0.1 securitas493maximus.xyz
@@ -44390,7 +44388,6 @@
 127.0.0.1 discorcl-air.xyz
 127.0.0.1 discorclnitro.ru
 127.0.0.1 discord-app.net
-
 127.0.0.1 discord-spooky.ru
 127.0.0.1 discord.foundation
 127.0.0.1 discordgift.ru
@@ -44421,7 +44418,6 @@
 127.0.0.1 forsportss.pp.ua
 127.0.0.1 fortnitebuy.com
 127.0.0.1 fozzytournaments.fun
-
 127.0.0.1 free-dislcordnitrlos.ru
 127.0.0.1 free-niltross.ru
 127.0.0.1 free-nitlross.ru
@@ -44658,24 +44654,14 @@
 127.0.0.1 wanmei-hy.ru
 127.0.0.1 wanmeizi.ru
 127.0.0.1 widesdays.com
-
 127.0.0.1 194.226.139.121
 127.0.0.1 194.226.139.7
 127.0.0.1 95.181.157.36
 127.0.0.1 95.181.172.204
-# Other
 127.0.0.1 foxsportnetwork.com
 127.0.0.1 pksauniversity.com
-
-# ——— Gobshite copypasted Android rooting "guides" (often with fake titles) that bricked two of my phones ———
-# Most of the guides haven't even accounted for how modern phones have replaced the recovery environment with an extra boot environment, leading to very critical Fastboot commands not working and/or bricking the phone.
-127.0.0.1 unofficialtwrp.com
 127.0.0.1 androidweblog.com
 127.0.0.1 hardreset.info
-
-
-# ——— If you run a webserver of any sort, and you get incoming requests to resolve these domains, that's rarely a good sign for that requestor's intentions ———
-# If you use AdGuard Home ≥v0.106.3, I warmly recommend manually pasting these entries into Settings → DNS Settings → Disallowed domains
 127.0.0.1 version.bind
 127.0.0.1 hostname.bind
 127.0.0.1 pizzaseo.com
@@ -44688,9 +44674,6 @@
 127.0.0.1 lavrov.in
 127.0.0.1 fe18.ru
 127.0.0.1 1x1.cz
-
-
-# ——— Since I very, very often have to go from "raw.githubusercontent.com" to "github.com" by means of manual address bar highlighting, I feel I could need some kind of protection insurance in case I highlight 2mm off-course one day. ———
 127.0.0.1 githubus.com
 127.0.0.1 githubu.com
 127.0.0.1 githu.com
@@ -44701,8 +44684,6 @@
 127.0.0.1 rgithub.com
 127.0.0.1 githubt.com
 127.0.0.1 githubnt.com
-
-# THREAT INTEL LIST
 academiaoslo.com.uy
 apexdesigns.co.in
 atualziarsys.serveirc.com
